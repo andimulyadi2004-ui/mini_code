@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#FF7A59"/><stop offset="0.5" stop-color="#FFC857"/><stop offset="1" stop-color="#3DDC97"/>
+</linearGradient></defs>
+<rect width="640" height="360" fill="#15131C"/>
+<g transform="translate(40,70) scale(0.42)">
+<polyline points="150,170 270,256 150,342" fill="none" stroke="url(#g)" stroke-width="44" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="296" y1="350" x2="378" y2="350" stroke="#4CC9F0" stroke-width="44" stroke-linecap="round"/>
+</g>
+<text x="225" y="203" font-family="DejaVu Sans Mono, monospace" font-weight="bold" font-size="66" fill="#ffffff">mini_code</text>
+</svg>
